@@ -1,0 +1,11 @@
+{
+  "version": "scanner_v1",
+  "holdout": [
+    "P6_novel_bec",
+    "P7_novel_share",
+    "L6_urgent_it",
+    "L7_urgent_payroll"
+  ],
+  "train_rows": 697,
+  "test_rows": 348
+}

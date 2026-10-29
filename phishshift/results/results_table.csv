@@ -1,0 +1,7 @@
+model,split,n,accuracy,precision,recall,f1,fpr_all_legit,fpr_urgent_legit,abstain_rate,accuracy_when_answering,tp,fp,fn,tn
+rules,campaign_holdout,348,0.945,1.0,0.89,0.942,0.0,0.0,0.382,0.912,154,0,19,175
+tfidf_lr,campaign_holdout,348,0.77,1.0,0.538,0.699,0.0,0.0,0.144,0.899,93,0,80,175
+random_forest,campaign_holdout,348,0.77,1.0,0.538,0.699,0.0,0.0,0.23,1.0,93,0,80,175
+rules,random_split,262,0.977,1.0,0.955,0.977,0.0,0.0,0.179,0.972,128,0,6,128
+tfidf_lr,random_split,262,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,134,0,0,128
+random_forest,random_split,262,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,134,0,0,128

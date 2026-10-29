@@ -1,0 +1,6 @@
+perturbation,mean_abs_prob_shift,max_prob_shift,accuracy,accuracy_drift,label_flips
+refang_url,0.016,0.052,0.77,0.0,0
+no_punctuation,0.044,0.205,0.77,0.0,0
+extra_exclaim,0.0,0.0,0.77,0.0,0
+ALL_CAPS,0.0,0.0,0.77,0.0,0
+spaced_url_dots,0.0,0.0,0.77,0.0,0
